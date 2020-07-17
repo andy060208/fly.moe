@@ -1,8 +1,6 @@
-# fly.moe
-
-> Fly3949 的个人页
-
-## 前言
+＃fly.moe
+＃原地址：https://github.com/fly3949/fly.moe
+##前言
 
 回复邮件授权太累了，索性直接开源吧。
 
